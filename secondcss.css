@@ -1,0 +1,29 @@
+
+.head
+{
+  text-align: center;
+}
+.part
+
+{
+    border: 1px solid rgb(180, 176, 176);
+    text-align: center;
+    margin: 54px;
+    box-shadow: 1px 1px  rgb(255, 179, 80) ;
+}
+.section
+
+{
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr
+    ;
+  
+}
+img
+{
+
+}
+p
+{
+font-weight: ;
+}
