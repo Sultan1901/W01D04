@@ -35,15 +35,20 @@ button {
 .b1
 {background-color: dodgerblue;
 border: dodgerblue;
-float: left;}
+
+;}
 .b2 {
     background-color: firebrick;
     border: firebrick;
+    margin-left: 90px;
+    
 ;
 }
 .b3 {
     background-color: greenyellow;
     border: greenyellow;
+    margin: 90px;
+   
 }
 .add
 {background-color: royalblue;
