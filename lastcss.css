@@ -1,0 +1,38 @@
+.head2
+{
+margin-left: 1000px;
+margin-top: -100px;
+}
+input
+{
+    margin: 10px;
+    height: 30px;
+}
+button
+{
+    color: orange;
+    background: rgb(65, 66, 65);
+    margin-left: -50px;
+}
+p{
+
+    border:white solid;
+ width: 20%;
+ height: 1px;
+ margin-left: 10px;
+ 
+  
+
+}
+img
+{
+width: 300px;
+height: auto;
+padding-top: -5000px;
+}
+.mess
+{
+    width: 300px;
+    height: 100px;
+    margin-left: -110px;
+}
