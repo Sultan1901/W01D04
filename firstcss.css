@@ -1,0 +1,71 @@
+body
+{
+    background-image: url(./tree.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family:Arial, Helvetica, sans-serif
+
+}
+
+
+.gold1 
+{
+    color: rgb(255, 174, 0);
+    ;
+
+}
+.gold2
+{
+    color: rgb(238, 176, 20);
+}
+.logo h1
+{
+    display: inline;
+
+   
+    
+}
+.b1
+{
+    background-color: black;
+    color: rgb(250, 249, 246);
+border: black;
+width: 100px;
+height: 30px;
+
+;
+
+}
+.in
+{
+    display: inline-block ;
+}
+li
+{
+    list-style: none;
+    display: inline-block;
+    margin: 1px;
+font-weight: bolder;  
+padding: 0 0 0 10px;
+
+;
+
+
+
+    
+}
+a
+{text-decoration: none;
+
+
+}
+.logo{
+    display:flex;
+  
+}
+
+.list
+{
+   
+    display: flex;
+}
